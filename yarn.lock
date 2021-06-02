@@ -3708,15 +3708,10 @@ react-dom@^17.0.0:
     object-assign "^4.1.1"
     scheduler "^0.20.0"
 
-"react-is@^16.12.0 || ^17.0.0", react-is@^17.0.1:
+"react-is@^16.12.0 || ^17.0.0", react-is@^17.0.0, react-is@^17.0.1, react-is@^17.0.2:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
-
-react-is@^17.0.0:
-  version "17.0.0"
-  resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.0.tgz#7d6ec2a5c3de3ae2c0bfa7586305115ec1192110"
-  integrity sha512-6IY5dc12jn4xU1kM25NVb86Zn472Kq70jcS7qpdQiSVPyng+7dnFH7BxHLX/Fwm2PZF6OJNEoHx6Zgivt/dZ+A==
 
 react-shallow-renderer@^16.13.1:
   version "16.14.1"
